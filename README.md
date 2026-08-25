@@ -42,7 +42,7 @@
 ```markdown
 ## 0. Paper
 
-(書誌: タイトル・著者・venue/年・読むリンク=alphaXiv・arXiv併記)
+(書誌: タイトル・著者・venue/年・alphaXiv・arXiv)
 
 ## 問題意識
 
@@ -57,7 +57,7 @@
 ```markdown
 ## 0. Paper
 
-(書誌: タイトル・著者・venue/年・読むリンク=alphaXiv・arXiv併記)
+(書誌: タイトル・著者・venue/年・alphaXiv・arXiv)
 
 ## 1. What is it?
 
