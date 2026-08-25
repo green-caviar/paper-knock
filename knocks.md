@@ -4,6 +4,6 @@
 
 | # | 論文 | Issue | 状態 |
 |---|---|---|---|
-| 001 | Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection | [#2](https://github.com/green-caviar/paper-knock/issues/2) | 読み中 |
-| 002 | Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values? | [#3](https://github.com/green-caviar/paper-knock/issues/3) | 読み中 |
-| 003 | When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games | [#4](https://github.com/green-caviar/paper-knock/issues/4) | 読了 |
+| 001 | Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection | [#5](https://github.com/green-caviar/paper-knock/issues/5) | 読み中 |
+| 002 | Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values? | [#6](https://github.com/green-caviar/paper-knock/issues/6) | 読み中 |
+| 003 | When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games | [#7](https://github.com/green-caviar/paper-knock/issues/7) | 読了 |
