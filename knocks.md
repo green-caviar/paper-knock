@@ -5,3 +5,4 @@
 | # | 論文 | Issue | 状態 |
 |---|---|---|---|
 | 001 | Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection | [#2](https://github.com/green-caviar/paper-knock/issues/2) | 読み中 |
+| 002 | Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values? | [#3](https://github.com/green-caviar/paper-knock/issues/3) | 読み中 |
