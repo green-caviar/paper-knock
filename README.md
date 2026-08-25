@@ -50,6 +50,12 @@
 
 ## 結果
 
+## 吟味
+
+- クリティカルか:
+- 手段として適切か:
+- 答え切ったか:
+
 ```
 
 ### 精読(`d: 精読`・[a1da4/paper-survey](https://github.com/a1da4/paper-survey) 形式)
