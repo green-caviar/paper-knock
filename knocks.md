@@ -9,3 +9,4 @@
 | 003 | When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games | [#7](https://github.com/green-caviar/paper-knock/issues/7) | 読了 |
 | 004 | Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies | [#8](https://github.com/green-caviar/paper-knock/issues/8) | 読了 |
 | 005 | Do LLMs Behave as Claimed? Investigating How LLMs Follow Their Own Claims using Counterfactual Questions | [#9](https://github.com/green-caviar/paper-knock/issues/9) | 読了 |
+| 006 | Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability | [#10](https://github.com/green-caviar/paper-knock/issues/10) | 読み中 |
