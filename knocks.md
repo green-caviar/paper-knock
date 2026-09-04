@@ -8,3 +8,4 @@
 | 002 | Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies | [#8](https://github.com/green-caviar/paper-knock/issues/8) | 読了 |
 | 003 | Do LLMs Behave as Claimed? Investigating How LLMs Follow Their Own Claims using Counterfactual Questions | [#9](https://github.com/green-caviar/paper-knock/issues/9) | 読了 |
 | 004 | Large Language Models Are Overconfident in Their Own Responses | [#11](https://github.com/green-caviar/paper-knock/issues/11) | 読み中 |
+| 005 | Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models | [#12](https://github.com/green-caviar/paper-knock/issues/12) | 読み中 |
